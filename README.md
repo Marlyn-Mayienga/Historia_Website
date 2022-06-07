@@ -1,15 +1,19 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Historia Website
 
-> Description the project.
+> This website shows the program and history of the National museum in Kenya - Historia Mamboleo Museum. There are different specialists talking about the world of art and the different program segments for the day. The sponsors for the event have also been mentioned. 
+
+The website can be viewed on a desktop or a small screen size device.
+
+
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- JavaScript
 
 ## Live Demo (if available)
 
@@ -17,18 +21,16 @@
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+You need to have a code editor to be able to run the commands in the terminal. VSCode is most preferred.
 
 ### Setup
+You need to download the linters folder and copy it to your project.
 
 ### Install
+You need to install the linters and the fontawesome library. (Preferred)
 
 ### Usage
 
@@ -40,17 +42,12 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Marlyn Mayienga**
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Marlyn_Mayienga](https://github.com/Marlyn_Mayienga)
+- Twitter: [@Merl_Mayienga](https://twitter.com/Merl_Mayienga)
+- LinkedIn: [Marlyn_Mayienga](https://linkedin.com/in/Marlyn_Mayienga)
 
 ## 🤝 Contributing
 
