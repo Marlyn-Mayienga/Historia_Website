@@ -1,21 +1,7 @@
 @media screen and (max-width: 1000px) {
   .main_invite_wrap section div.location,
-  .main_invite_wrap
-    section
-    .schedule
-    .timetable
-    table
-    tr
-    td
-    div.oneline_location,
-  .schedule
-    .timetable
-    table
-    tr
-    td
-    .main_invite_wrap
-    section
-    div.oneline_location {
+  .main_invite_wrap section .schedule .timetable table tr td div.oneline_location,
+  .schedule .timetable table tr td .main_invite_wrap section div.oneline_location {
     text-align: center;
     width: 100%;
     font-size: 1.125em;
@@ -26,24 +12,8 @@
 }
 
 .main_invite_wrap section div.location .dateinfo,
-.main_invite_wrap
-  section
-  .schedule
-  .timetable
-  table
-  tr
-  td
-  div.oneline_location
-  .dateinfo,
-.schedule
-  .timetable
-  table
-  tr
-  td
-  .main_invite_wrap
-  section
-  div.oneline_location
-  .dateinfo {
+.main_invite_wrap section .schedule .timetable table tr td div.oneline_location .dateinfo,
+.schedule .timetable table tr td .main_invite_wrap section div.oneline_location .dateinfo {
   font: bold 36px Lato;
   color: #575757;
   letter-spacing: -2px;
@@ -52,24 +22,8 @@
 
 @media screen and (max-width: 1000px) {
   .main_invite_wrap section div.location .dateinfo,
-  .main_invite_wrap
-    section
-    .schedule
-    .timetable
-    table
-    tr
-    td
-    div.oneline_location
-    .dateinfo,
-  .schedule
-    .timetable
-    table
-    tr
-    td
-    .main_invite_wrap
-    section
-    div.oneline_location
-    .dateinfo {
+  .main_invite_wrap section .schedule .timetable table tr td div.oneline_location .dateinfo,
+  .schedule .timetable table tr td .main_invite_wrap section div.oneline_location .dateinfo {
     font-size: 15px;
     font-weight: bold;
     width: 90%;
@@ -81,47 +35,16 @@
 }
 
 .main_invite_wrap section div.location .locate,
-.main_invite_wrap
-  section
-  .schedule
-  .timetable
-  table
-  tr
-  td
-  div.oneline_location
-  .locate,
-.schedule
-  .timetable
-  table
-  tr
-  td
-  .main_invite_wrap
-  section
-  div.oneline_location
-  .locate {
+.main_invite_wrap section .schedule .timetable table tr td div.oneline_location .locate,
+.schedule .timetable table tr td .main_invite_wrap section div.oneline_location .locate {
   text-align: left;
 }
 
 @media screen and (max-width: 1000px) {
   .main_invite_wrap section div.location .locate,
-  .main_invite_wrap
-    section
-    .schedule
-    .timetable
-    table
-    tr
-    td
-    div.oneline_location
-    .locate,
-  .schedule
-    .timetable
-    table
-    tr
-    td
-    .main_invite_wrap
-    section
-    div.oneline_location
-    .locate {
+  .main_invite_wrap section .schedule .timetable table tr td div.oneline_location .locate,
+  .schedule .timetable table tr td .main_invite_wrap section div.oneline_location .locate {
+    font-family: lato, cocogoose;
     font-size: 15px;
     width: 90%;
     display: inline-block;
@@ -705,50 +628,50 @@
 .footer_black .ccl {
   padding-top: 75px;
   display: inline-block;
+
   /* float: left; */
-height: 120px;
-width: 300px;
-vertical-align: middle;
-text-align: center;
+  height: 120px;
+  width: 300px;
+  vertical-align: middle;
+  text-align: center;
 
-@media screen and (max-width: 1000px) {
-  .footer_black .ccl {
-    float: none;
-    width: 100%;
-    height: auto;
-    padding: 0;
+  @media screen and (max-width: 1000px) {
+    .footer_black .ccl {
+      float: none;
+      width: 100%;
+      height: auto;
+      padding: 0;
+    }
+  }
+
+  @media screen and (max-width: 1000px) {
+    .footer_black .ccl_logo {
+      padding-top: 20px;
+      text-align: center;
+    }
+
+    .footer_black .ccl_logo img {
+      margin-bottom: 10px;
+      height: 25px;
+    }
+  }
+
+  @media screen and (max-width: 1000px) {
+    .footer_black .ccl_info {
+      padding-top: 0;
+      width: 100%;
+      height: auto;
+      font-size: 0.75em;
+      text-align: left;
+    }
   }
 }
 
-@media screen and (max-width: 1000px) {
-  .footer_black .ccl_logo {
-    padding-top: 20px;
-    text-align: center;
-  }
-
-  .footer_black .ccl_logo img {
-    margin-bottom: 10px;
-    height: 25px;
-  }
-}
-
-@media screen and (max-width: 1000px) {
-  .footer_black .ccl_info {
-    padding-top: 0;
-    width: 100%;
-    height: auto;
-    font-size: 0.75em;
-    text-align: left;
-  }
-}
-
-}
 .introduce_main {
   background: #f7f7f8 url(/images/other/about_bg_01.png) center no-repeat;
   height: auto;
   overflow: auto;
 }
-
 
 .introduce_main section {
   height: auto;
