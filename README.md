@@ -6,11 +6,7 @@
 
 The website can be viewed on a desktop or a small screen size device.
 
-
-
-
 ## Built With
-
 - HTML
 - CSS
 - JavaScript
@@ -22,6 +18,7 @@ The website can be viewed on a desktop or a small screen size device.
 
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
+Run this code to set it up on you local computer: https://github.com/Marlyn-Mayienga/Historia_Website.git
 
 ### Prerequisites
 You need to have a code editor to be able to run the commands in the terminal. VSCode is most preferred.
@@ -32,13 +29,8 @@ You need to download the linters folder and copy it to your project.
 ### Install
 You need to install the linters and the fontawesome library. (Preferred)
 
-### Usage
-
-### Run tests
-
 ### Deployment
-
-
+The project was deployed to Github pages. 
 
 ## Authors
 

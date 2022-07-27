@@ -11,6 +11,11 @@ body {
   margin: 0;
 }
 
+.nav-item:hover {
+  color: #ec5242 !important;
+  cursor: pointer;
+}
+
 .first-nav {
   background-color: #272a31;
 }
@@ -204,6 +209,15 @@ hr {
   display: none;
 }
 
+.card-title {
+  font-weight: bolder;
+}
+
+.card-title,
+.card-description {
+  text-align: left;
+}
+
 @media only screen and (max-width: 768px) {
   body {
     padding: 5px;
@@ -355,5 +369,10 @@ hr {
     background-color: #fff1;
     text-align: center;
     margin: 5px;
+  }
+
+  /* Speaker Hidden */
+  .speaker-hidden {
+    display: none;
   }
 }
